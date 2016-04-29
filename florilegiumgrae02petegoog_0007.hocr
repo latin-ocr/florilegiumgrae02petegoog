@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./florilegiumgrae02petegoog_0007.png"; bbox 0 0 2668 4002; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 219 1653 1226 1814">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 219 1653 1226 1814">
+     <span class='ocr_line' id='line_1_1' title="bbox 290 1653 1226 1725; baseline -0.002 -17"><span class='ocrx_word' id='word_1_1' title='bbox 290 1653 364 1721; x_wconf 79' lang='lat' dir='ltr'><strong>Quas</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 378 1671 483 1725; x_wconf 76' lang='lat' dir='ltr'>paucas</span> <span class='ocrx_word' id='word_1_3' title='bbox 497 1653 629 1710; x_wconf 76' lang='lat' dir='ltr'><strong>minutias</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 643 1653 819 1723; x_wconf 73' lang='lat' dir='ltr'><strong>mutavimus,</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 838 1653 884 1708; x_wconf 83' lang='lat' dir='ltr'><strong>vix</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 897 1671 1064 1722; x_wconf 78' lang='lat' dir='ltr'>quemquam</span> <span class='ocrx_word' id='word_1_7' title='bbox 1082 1653 1226 1724; x_wconf 80' lang='lat' dir='ltr'>legentem</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 219 1743 1014 1814; baseline -0.001 -15"><span class='ocrx_word' id='word_1_8' title='bbox 219 1747 248 1800; x_wconf 69' lang='lat' dir='ltr'><strong>ei</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 267 1762 330 1798; x_wconf 80' lang='lat' dir='ltr'><strong>oum</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 348 1743 490 1814; x_wconf 80' lang='lat' dir='ltr'><strong>superiore</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 508 1745 630 1799; x_wconf 78' lang='lat' dir='ltr'><strong>editione</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 650 1748 846 1814; x_wconf 75' lang='lat' dir='ltr'><strong>conparantem</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 866 1743 1014 1798; x_wconf 44' lang='lat' dir='ltr'><strong>offendenti</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 515 3545 938 3584">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 515 3545 938 3584">
+     <span class='ocr_line' id='line_1_3' title="bbox 515 3545 938 3584; baseline -0.005 -2"><span class='ocrx_word' id='word_1_14' title='bbox 515 3547 629 3584; x_wconf 71' lang='lat' dir='ltr'><strong>maun:</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 649 3547 722 3581; x_wconf 69' lang='lat' dir='ltr'><strong>wls</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 737 3547 760 3580; x_wconf 82' lang='lat' dir='ltr'><strong>B.</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 773 3545 797 3580; x_wconf 77' lang='lat' dir='ltr'><strong>G.</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 809 3546 938 3581; x_wconf 61' lang='lat' dir='ltr'><strong>&#39;mnrium</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1338 4002">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1338 4002">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1338 4002; baseline 0 0"><span class='ocrx_word' id='word_1_19' title='bbox 0 0 1338 4002; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
